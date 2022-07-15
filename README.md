@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ardena Afif Pratama</h1>
-<h3 align="center">A passionate Machine Learning developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak">
+<h3 align="center">A passionate Machine Learning Developer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
 
@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **aafifpratama@gmail.com**
 
-- 📄 Know about my experiences [I wan participation on Web Developer Championship](I wan participation on Web Developer Championship)
+- ⚡ Fun fact **I am Funny**
+
+- 📄 Know about my experiences [I was participated on Web Developer Championship](I got First Winner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
