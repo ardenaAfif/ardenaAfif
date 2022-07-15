@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ardena Afif Pratama</h1>
 <h3 align="center">A passionate Machine Learning developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://eurekabookhouse.com/assets/front/images/iOSdev.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak">
 
 
 
