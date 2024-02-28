@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ardena Afif Pratama</h1>
-<h3 align="center">A passionate Machine Learning Developer from Indonesia</h3>
+<h3 align="center">A passionate Machine Learning and Android Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
@@ -10,13 +10,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **python, Java, C++, HTML, CSS, JS, ANDROID**
+- 💬 Ask me about **python, C++, Kotlin, ANDROID**
 
 - 📫 How to reach me **aafifpratama@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
-- 📄 Know about my experiences [I was participated on Web Developer Championship](I got First Winner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
