@@ -4,13 +4,13 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardenaafif&label=Profile%20views&color=0e75b6&style=flat" alt="ardenaafif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardenaAfif&label=Profile%20views&color=0e75b6&style=flat" alt="ardenaAfif" /> </p>
 
-- 🔭 I’m studying on **Darussalam University**
+- 🔭 I’m studying on **University of Darussalam Gontor**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning & Android**
 
-- 💬 Ask me about **python, Data Science, AI, Kotlin, ANDROID**
+- 💬 Ask me about **Python, Data Science, AI, Kotlin, ANDROID**
 
 - 📫 How to reach me **aafifpratama@gmail.com**
 
